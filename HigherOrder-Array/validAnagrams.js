@@ -7,7 +7,7 @@
 
 function validAnagrams(a,b){
 
-    if
+    
 }
 
 console.log(
