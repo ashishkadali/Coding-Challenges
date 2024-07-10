@@ -1,6 +1,6 @@
-## why LinkedList: 
+// why LinkedList: 
 
-LinkedList used when we dont know the size of the array prior, we use likened list, beacuse its allocate momory randomly and store the ref the next data. by using the ref we will access the next data and modify it or del it.
+//LinkedList used when we dont know the size of the array prior, we use likened list, beacuse its allocate momory randomly and store the ref the next data. by using the ref we will access the next data and modify it or del it.
 
 class Node{
   
